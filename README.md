@@ -1,3 +1,11 @@
+TDDBC in Sendai 3rdで打ったコード
+
+数学の整数の区間を題材にJavaを使用しＴＤＤでコーディング
+ネタ元はこちら
+http://devtesting.jp/tddbc/?TDDBC%E4%BB%99%E5%8F%B003%2F%E8%AA%B2%E9%A1%8C
+
+
+
 TDDBC for Java with JUnit
 ====================================
 
